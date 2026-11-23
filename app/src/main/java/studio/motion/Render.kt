@@ -4,7 +4,7 @@ import android.content.Context
 import android.graphics.Color
 import android.net.Uri
 import android.opengl.GLES20
-import android.util.Size
+import androidx.media3.common.util.Size
 import androidx.media3.common.*
 import androidx.media3.common.audio.AudioProcessor
 import androidx.media3.common.audio.ChannelMixingAudioProcessor
